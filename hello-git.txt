@@ -9,3 +9,4 @@ Step 1 : change made on GitHub
 Feature branch update
 log-demo; line 1
 log-demo; line 2
+stash-demo; uncommited change
