@@ -7,3 +7,4 @@ This is my first Git change !!!!
 
 Step 1 : change made on GitHub
 Feature branch update
+log-demo; line 1
