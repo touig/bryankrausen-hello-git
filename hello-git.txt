@@ -4,3 +4,5 @@ My First Git Repo
 # Edit Below this Line
 # --------------------
 This is my first Git change !!!!
+
+Step 1 : change made on GitHub
